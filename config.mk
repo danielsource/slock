@@ -1,5 +1,5 @@
 # slock version
-VERSION = 1.5
+VERSION = 1.5+daniel.source
 
 # Customize below to fit your system
 
